@@ -1,5 +1,5 @@
 # Aplikasi Inventaris Aset
-Aplikasi ini dibuat untuk mencatat dan memantau data aset seperti nama aset, jumlah, lokasi, dan nilai penyusutan. Dibangun menggunakan **PHP dan MySQL**.
+Aplikasi ini dibuat untuk mencatat dan memantau data aset seperti nama aset, jumlah, lokasi, dan nilai penyusutan. Dirancang menggunakan **PHP, HTML, CSS, dan MySQL**.
 
 ## 🔧 Fitur Utama
 - Login user (admin/staff)
