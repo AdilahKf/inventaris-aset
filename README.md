@@ -3,7 +3,7 @@ Aplikasi ini dibuat untuk mencatat dan memantau data aset seperti nama aset, jum
 
 ## 🔧 Fitur Utama
 - Login user (admin/staff)
-- Input & update data aset
+- CRUD data aset
 - Perhitungan penyusutan otomatis
 - Pencarian aset
 - Laporan aset & export data
